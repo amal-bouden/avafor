@@ -1,0 +1,5 @@
+Analyzing flutter_application_1...                              
+
+  error - The argument type 'double?' can't be assigned to the parameter type 'double'.  - lib\widgets\glass_container.dart:24:15 - argument_type_not_assignable
+warning - The asset file 'assets/sounds/click.mp3' doesn't exist - pubspec.yaml:70:7 - asset_does_not_exist
+

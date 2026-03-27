@@ -1,0 +1,9 @@
+Analyzing flutter_application_1...                              
+
+  error - Target of URI doesn't exist: '../widgets/alert_card.dart' - lib\screens\home_screen.dart:7:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../widgets/risk_indicator.dart' - lib\screens\home_screen.dart:8:8 - uri_does_not_exist
+  error - The method 'AlertCard' isn't defined for the type '_HomeScreenState' - lib\screens\home_screen.dart:151:38 - undefined_method
+  error - The method 'RiskIndicator' isn't defined for the type '_HomeScreenState' - lib\screens\home_screen.dart:161:24 - undefined_method
+  error - The argument type 'double?' can't be assigned to the parameter type 'double'.  - lib\widgets\glass_container.dart:24:15 - argument_type_not_assignable
+warning - The asset file 'assets/sounds/click.mp3' doesn't exist - pubspec.yaml:70:7 - asset_does_not_exist
+
